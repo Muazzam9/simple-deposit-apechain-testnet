@@ -31,7 +31,7 @@ const config: HardhatUserConfig = {
         network: "apeTestnet",
         chainId: 33111,
         urls: {
-          apiURL: "https://curtis.explorer.caldera.xyz/api", // Correct API URL
+          apiURL: "https://curtis.explorer.caldera.xyz/api",
           browserURL: "https://curtis.explorer.caldera.xyz",
         },
       },
