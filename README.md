@@ -1,6 +1,6 @@
 # Simple APE Deposit Contract
 
-This project demonstrates a basic deposit contract for APE tokens on the APE testnet (Caldera).
+This project demonstrates a basic deposit contract for APE tokens on the APE testnet (Curtis).
 
 ## Prerequisites
 
