@@ -28,7 +28,7 @@ This project demonstrates a basic deposit contract for APE tokens on the APE tes
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/Muazzam9/simple-deposit-apechain-testnet.git)
+git clone https://github.com/Muazzam9/simple-deposit-apechain-testnet.git
 cd simple-deposit
 ```
 
